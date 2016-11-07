@@ -1,0 +1,529 @@
+# Copyright (C) 2015 Table of Contents Plus
+# This file is distributed under the same license as the Table of Contents Plus package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Table of Contents Plus 1505\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/table-of-contents-"
+"plus\n"
+"POT-Creation-Date: 2016-11-03 10:44+0300\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-11-03 11:27+0300\n"
+"Language-Team: \n"
+"X-Generator: Poedit 1.8.11\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Language: ru_RU\n"
+
+#: toc.php:201
+msgid "Settings"
+msgstr "Настройки"
+
+#: toc.php:482 toc.php:483
+msgid "TOC"
+msgstr "Содержание"
+
+#: toc.php:653
+msgid "Options saved."
+msgstr "Настройки сохранены."
+
+#: toc.php:655
+msgid "Save failed."
+msgstr "Сбой сохранения."
+
+#: toc.php:667
+msgid "Main Options"
+msgstr "Главный настройки"
+
+#: toc.php:668
+msgid "Sitemap"
+msgstr "Карта сайта"
+
+#: toc.php:669
+msgid "Help"
+msgstr "Помощь"
+
+#: toc.php:677
+msgid "Position"
+msgstr "Позиция"
+
+#: toc.php:680
+msgid "Before first heading (default)"
+msgstr "До первого заголовка (по умолчанию)"
+
+#: toc.php:681
+msgid "After first heading"
+msgstr "После первого заголовка"
+
+#: toc.php:682
+msgid "Top"
+msgstr "Сверху"
+
+#: toc.php:683
+msgid "Bottom"
+msgstr "Снизу"
+
+#: toc.php:688
+msgid "Show when"
+msgstr "Показывать когда"
+
+#. translators: text follows drop down list of numbers
+#: toc.php:700
+msgid "or more headings are present"
+msgstr "или более заголовков есть в тексте"
+
+#: toc.php:704
+msgid "Auto insert for the following content types"
+msgstr "Автоматическая вставка для следующих типов контента"
+
+#. translators: this is the title of the table of contents
+#: toc.php:719
+msgid "Heading text"
+msgstr "Текст заголовка"
+
+#: toc.php:721
+msgid "Show title on top of the table of contents"
+msgstr "Показывать текст заголовка вверху содержания"
+
+#: toc.php:724
+msgid "Eg: Contents, Table of Contents, Page Contents"
+msgstr "Например, \"Содержание\", \"Оглавление\""
+
+#: toc.php:726
+msgid "Allow the user to toggle the visibility of the table of contents"
+msgstr "Позволять пользователю менять видимость содержания"
+
+#: toc.php:731
+msgid "Show text"
+msgstr "Текст \"Показать\""
+
+#. translators: example text to display when you want to expand the table of
+#. contents
+#: toc.php:735
+msgid "Eg: show"
+msgstr "Например, \"показать\""
+
+#: toc.php:738
+msgid "Hide text"
+msgstr "Текст \"скрыть\""
+
+#. translators: example text to display when you want to collapse the table of
+#. contents
+#: toc.php:742
+msgid "Eg: hide"
+msgstr "Например, \"скрыть\""
+
+#: toc.php:746
+msgid "Hide the table of contents initially"
+msgstr "Изначально показывать содержание в скрытом состоянии"
+
+#: toc.php:752
+msgid "Show hierarchy"
+msgstr "Показывать иерархию"
+
+#: toc.php:756
+msgid "Number list items"
+msgstr "Нумеровать содержимое"
+
+#: toc.php:760
+msgid "Enable smooth scroll effect"
+msgstr "Включить плавную прокрутку"
+
+#: toc.php:761
+msgid "Scroll rather than jump to the anchor link"
+msgstr "Прокручивать вместо того, чтобы резко переходить к якорю"
+
+#: toc.php:766
+msgid "Appearance"
+msgstr "Появление"
+
+#: toc.php:770
+msgid "Width"
+msgstr "Ширина"
+
+#: toc.php:773
+msgid "Fixed width"
+msgstr "Фиксированная ширина"
+
+#: toc.php:784
+msgid "Relative"
+msgstr "Относительная"
+
+#: toc.php:785
+msgid "Auto (default)"
+msgstr "Автоматически (по умолчанию)"
+
+#. translators: other width
+#: toc.php:795
+msgid "Other"
+msgstr "Другая"
+
+#: toc.php:796
+msgid "User defined"
+msgstr "Определённая пользователем"
+
+#. translators: ignore %s as it's some HTML label tags
+#: toc.php:802
+msgid "Please enter a number and %s select its units, eg: 100px, 10em"
+msgstr "Пожалуйста, введите число и %s выберите единицы, например 100px, 10em"
+
+#: toc.php:813
+msgid "Wrapping"
+msgstr "Позиция"
+
+#: toc.php:816
+msgid "None (default)"
+msgstr "По умолчанию (над текстом)"
+
+#: toc.php:817
+msgid "Left"
+msgstr "Слева"
+
+#: toc.php:818
+msgid "Right"
+msgstr "Справа"
+
+#: toc.php:823
+msgid "Font size"
+msgstr "Размер текста"
+
+#. translators: appearance / colour / look and feel options
+#: toc.php:836
+msgid "Presentation"
+msgstr "Цвет фона"
+
+#: toc.php:839
+msgid "Grey (default)"
+msgstr "Серый (по умолчанию)"
+
+#: toc.php:844
+msgid "Light blue"
+msgstr "Светло-голубой"
+
+#: toc.php:849
+msgid "White"
+msgstr "Белый"
+
+#: toc.php:854
+msgid "Black"
+msgstr "Чёрный"
+
+#: toc.php:859
+msgid "Transparent"
+msgstr "Прозрачный"
+
+#: toc.php:864
+msgid "Custom"
+msgstr "Пользовательский"
+
+#: toc.php:874
+msgid "Background"
+msgstr "Фон"
+
+#: toc.php:878
+msgid "Border"
+msgstr "Граница"
+
+#: toc.php:882 toc.php:1658
+msgid "Title"
+msgstr "Заголовок"
+
+#: toc.php:886
+msgid "Links"
+msgstr "Ссылки"
+
+#: toc.php:890
+msgid "Links (hover)"
+msgstr "Ссылки (:hover)"
+
+#: toc.php:894
+msgid "Links (visited)"
+msgstr "Посещённые ссылки (:visited)"
+
+#: toc.php:901
+msgid "Leaving the value as %s will inherit your theme's styles"
+msgstr "Оставьте значение %s, чтобы унаследовать стили темы"
+
+#: toc.php:908
+msgid "Advanced"
+msgstr "Расширенные"
+
+#: toc.php:908 toc.php:1045
+msgid "show"
+msgstr "показать"
+
+#: toc.php:910
+msgid "Power options"
+msgstr "Мощные опции"
+
+#: toc.php:914
+msgid "Lowercase"
+msgstr "Нижний регистр"
+
+#: toc.php:915
+msgid "Ensure anchors are in lowercase"
+msgstr "Переводить якори (#) в нижний регистр"
+
+#: toc.php:918
+msgid "Hyphenate"
+msgstr "Дефисы"
+
+#: toc.php:919
+msgid "Use - rather than _ in anchors"
+msgstr "Использовать - вместо _ в якорях"
+
+#: toc.php:922
+msgid "Include homepage"
+msgstr "Включать домашнюю страницу"
+
+#: toc.php:923
+msgid "Show the table of contents for qualifying items on the homepage"
+msgstr "Показать содержание для статей на главной странице"
+
+#: toc.php:926
+msgid "Exclude CSS file"
+msgstr "Исключить CSS-файл"
+
+#: toc.php:927
+msgid ""
+"Prevent the loading of this plugin's CSS styles. When selected, the "
+"appearance options from above will also be ignored."
+msgstr ""
+"Предотвращает загрузку css для этого плагина. Если выбрано, то настройки "
+"появления, выбранные выше будут проигнорированы."
+
+#: toc.php:930
+msgid "Preserve theme bullets"
+msgstr "Поддержка оформления маркеров темы"
+
+#: toc.php:931
+msgid ""
+"If your theme includes background images for unordered list elements, enable "
+"this to support them"
+msgstr ""
+"Если ваша тема включает изображения для маркеров списка, вам необходимо "
+"включить эту опцию для их поддержки"
+
+#: toc.php:934
+msgid "Heading levels"
+msgstr "Уровни заголовков"
+
+#: toc.php:936
+msgid ""
+"Include the following heading levels. Deselecting a heading will exclude it."
+msgstr ""
+"Включать следующие уровни заголовков. Снятие галочки исключит заголовки из "
+"содержания."
+
+#: toc.php:942
+msgid "heading "
+msgstr "заголовок"
+
+#: toc.php:948
+msgid "Exclude headings"
+msgstr "Исключать заголовки"
+
+#: toc.php:951
+msgid ""
+"Specify headings to be excluded from appearing in the table of contents.  "
+"Separate multiple headings with a pipe <code>|</code>.  Use an asterisk "
+"<code>*</code> as a wildcard to match other text.  Note that this is not "
+"case sensitive. Some examples:"
+msgstr ""
+"Определите заголовки, которые будут исключены из содержания. Разделяйте их "
+"вертикальной чертой <code>|</code>.  Используйте звёздочку  <code>*</code> "
+"для обозначения прочего текста. Обратите внимание, что этот параметр не "
+"чувствителен к регистру. Несколько примеров:"
+
+#: toc.php:953
+msgid "<code>Fruit*</code> ignore headings starting with \"Fruit\""
+msgstr "<code>Fruit*</code>проигнорирует заголовки, начинающиеся с \"Fruit\""
+
+#: toc.php:954
+msgid ""
+"<code>*Fruit Diet*</code> ignore headings with \"Fruit Diet\" somewhere in "
+"the heading"
+msgstr ""
+"<code>*Fruit Diet*</code> проигнорирует заголовки, если где-либо в них "
+"встречается словосочетание \"Fruit Diet\""
+
+#: toc.php:955
+msgid ""
+"<code>Apple Tree|Oranges|Yellow Bananas</code> ignore headings that are "
+"exactly \"Apple Tree\", \"Oranges\" or \"Yellow Bananas\""
+msgstr ""
+
+#: toc.php:960
+msgid "Smooth scroll top offset"
+msgstr ""
+
+#: toc.php:963
+msgid ""
+"If you have a consistent menu across the top of your site, you can adjust "
+"the top offset to stop the headings from appearing underneath the top menu. "
+"A setting of 30 accommodates the WordPress admin bar. This setting appears "
+"after you have enabled smooth scrolling from above."
+msgstr ""
+
+#: toc.php:967
+msgid "Restrict path"
+msgstr ""
+
+#: toc.php:970
+msgid ""
+"Restrict generation of the table of contents to pages that match the "
+"required path. This path is from the root of your site and always begins "
+"with a forward slash."
+msgstr ""
+
+#. translators: example URL path restriction
+#: toc.php:973
+msgid "Eg: /wiki/, /corporate/annual-reports/"
+msgstr ""
+
+#: toc.php:977
+msgid "Default anchor prefix"
+msgstr ""
+
+#: toc.php:980
+msgid ""
+"Anchor targets are restricted to alphanumeric characters as per HTML "
+"specification (see readme for more detail). The default anchor prefix will "
+"be used when no characters qualify. When left blank, a number will be used "
+"instead."
+msgstr ""
+
+#: toc.php:981
+msgid ""
+"This option normally applies to content written in character sets other than "
+"ASCII."
+msgstr ""
+
+#. translators: example anchor prefixes when no ascii characters match
+#: toc.php:984
+msgid "Eg: i, toc_index, index, _"
+msgstr ""
+
+#. translators: advanced usage
+#: toc.php:992
+msgid "Usage"
+msgstr ""
+
+#: toc.php:993
+msgid ""
+"If you would like to fully customise the position of the table of contents, "
+"you can use the %s shortcode by placing it at the desired position of your "
+"post, page or custom post type. This method allows you to generate the table "
+"of contents despite having auto insertion disabled for its content type. "
+"Please visit the help tab for further information about this shortcode."
+msgstr ""
+
+#: toc.php:1001
+msgid ""
+"At its simplest, placing %s into a page will automatically create a sitemap "
+"of all pages and categories. This also works in a text widget."
+msgstr ""
+
+#: toc.php:1005
+msgid "Show page listing"
+msgstr ""
+
+#: toc.php:1009
+msgid "Show category listing"
+msgstr ""
+
+#: toc.php:1013
+msgid "Heading type"
+msgstr ""
+
+#. translators: the full line is supposed to read - Use [1-6 drop down list] to
+#. print out the titles
+#: toc.php:1016
+msgid "Use"
+msgstr ""
+
+#. translators: the full line is supposed to read - Use [h1-h6 drop down list]
+#. to print out the titles
+#: toc.php:1027
+msgid "to print out the titles"
+msgstr ""
+
+#: toc.php:1031
+msgid "Pages label"
+msgstr ""
+
+#: toc.php:1033
+msgid "Eg: Pages, Page List"
+msgstr ""
+
+#: toc.php:1037
+msgid "Categories label"
+msgstr ""
+
+#: toc.php:1039
+msgid "Eg: Categories, Category List"
+msgstr ""
+
+#: toc.php:1045
+msgid "Advanced usage"
+msgstr ""
+
+#: toc.php:1047
+msgid ""
+"lets you print out a listing of only pages. Similarly %s can be used to "
+"print out a category listing. They both can accept a number of attributes so "
+"visit the help tab for more information."
+msgstr ""
+
+#: toc.php:1048
+msgid "Examples"
+msgstr ""
+
+#: toc.php:1050
+msgid "hides the heading from a category listing"
+msgstr ""
+
+#: toc.php:1051
+msgid ""
+"Uses h6 to display %s on a page listing excluding pages with IDs 1 and 15"
+msgstr ""
+
+#: toc.php:1060
+msgid "Update Options"
+msgstr ""
+
+#: toc.php:1563
+msgid "Display the table of contents in the sidebar with this widget"
+msgstr ""
+
+#: toc.php:1664
+msgid "Show the table of contents only in the sidebar"
+msgstr ""
+
+#: toc.php:1668
+msgid "For the following content types:"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Table of Contents Plus"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://dublue.com/plugins/toc/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"A powerful yet user friendly plugin that automatically creates a table of "
+"contents. Can also output a sitemap listing all pages and categories."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Michael Tran"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://dublue.com/"
+msgstr ""
